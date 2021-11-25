@@ -1,2 +1,0 @@
-# Hybrid-Lab
-Hybrid-Lab
